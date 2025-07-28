@@ -1,10 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=120&section=header"/>
+<!-- Banner animado -->
+<p align="center" style="background-color:#0d0d0d;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner animado">
+</p>
 
-<h1 align="center">Vinicius Anacleto</h1>
-<h3 align="center">🚀 Desenvolvedor Full Stack | Front-End & Back-End | WEG</h3>
+<h1 align="center" style="color:#cccccc;">Vinicius Anacleto</h1>
+<h3 align="center" style="color:#cccccc;">🚀 Desenvolvedor Full Stack | Front-End & Back-End | WEG</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=cccccc&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Especialista+Front-End+e+Back-End;Criando+soluções+completas;Sempre+aprendendo+algo+novo!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=cccccc&center=true&vCenter=true&width=650&lines=👨‍💻+Codando+soluções+do+zero;🔥+Apaixonado+por+tecnologia;💼+Trabalhando+na+WEG;🚀+Full+Stack+Developer" />
 </div>
 
 <br>
@@ -18,6 +21,7 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 ## 🛠️ Tecnologias
 
 <div align="center">
+  <!-- ícones em fundo escuro, mantidos coloridos -->
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
@@ -67,7 +71,7 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 
 ## 📈 Atividade no GitHub
 
-[![Vinicius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-fa&bg_color=1a1b27&color=cccccc&line=00d4ff&point=70a5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vinicius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-fa&bg_color=0d0d0d&color=cccccc&line=cccccc&point=999999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -75,13 +79,13 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 
 <div align="center">
   <a href="https://linkedin.com/in/Vinicius de Figueiredo Anacleto" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:vinicius.f.anacleto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/Vinicius-fa" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/-GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
@@ -89,8 +93,6 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 
 <div align="center">
   
-**"A excelência não é um ato, mas um hábito."** ✨
+**<span style="color:#cccccc;">"A excelência não é um ato, mas um hábito."</span>** ✨
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=120&section=footer"/>

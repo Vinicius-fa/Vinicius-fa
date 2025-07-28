@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=120&section=header"/>
 
 <h1 align="center">Vinicius Anacleto</h1>
 <h3 align="center">🚀 Desenvolvedor Full Stack | Front-End & Back-End | WEG</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00D4FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Especialista+Front-End+e+Back-End;Criando+soluções+completas;Sempre+aprendendo+algo+novo!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=cccccc&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Especialista+Front-End+e+Back-End;Criando+soluções+completas;Sempre+aprendendo+algo+novo!" />
 </div>
 
 <br>
@@ -37,8 +37,8 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 ## 📊 GitHub Stats
 
 <div align="center">  
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-fa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-fa&layout=compact&theme=tokyonight"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-fa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-fa&layout=compact&theme=dark"/>
 </div>
 
 <br>
@@ -67,7 +67,7 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 
 ## 📈 Atividade no GitHub
 
-[![Vinicius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-fa&bg_color=1a1b27&color=70a5fd&line=00d4ff&point=70a5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vinicius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-fa&bg_color=1a1b27&color=cccccc&line=00d4ff&point=70a5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -75,13 +75,13 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 
 <div align="center">
   <a href="https://linkedin.com/in/Vinicius de Figueiredo Anacleto" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:vinicius.f.anacleto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/Vinicius-fa" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/-GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
@@ -93,4 +93,4 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=120&section=footer"/>

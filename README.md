@@ -94,3 +94,8 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=120&section=footer"/>
+
+
+
+## 🐍 Snake comendo meus commits
+![snake gif](https://github.com/Vinicius-fa/Vinicius-fa/blob/output/github-contribution-grid-snake.svg)

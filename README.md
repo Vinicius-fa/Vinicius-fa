@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center" style="background-color:#0d0d0d;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Banner animado">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMzMTU3MzhpdG00M28xZHJmNWQwZWljMGIyand0cXVsbnRtdHpsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%" alt="Banner animado">
 </p>
 
 <h1 align="center" style="color:#cccccc;">Vinicius Anacleto</h1>

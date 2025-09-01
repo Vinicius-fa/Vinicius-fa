@@ -58,13 +58,13 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 
 ## 🎯 Especialidades
 
-- **Frontend Development** - HTML5, CSS3, JavaScript, React
-- **Backend Development** - Java, MySQL, APIs RESTful
-- **Responsive Design** - Mobile-first, Cross-browser
+- **Frontend Development** - HTML5, CSS3, JavaScript
+- **Backend Development** - Java, MySQL
+- **Responsive Design** - Mobile-first
 - **Database** - MySQL, Modelagem de Dados, Queries Otimizadas
 - **Tools & IDE** - Eclipse, VS Code, Git, GitHub
 - **UI/UX Design** - Figma, Prototipagem, Design Systems
-- **Performance** - Otimização Full Stack, Web Vitals, SEO
+- **Performance** - Otimização Full Stack, Web Vitals
 
 <br>
 

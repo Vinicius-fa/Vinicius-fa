@@ -92,6 +92,6 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 
 <div align="center">
   
-**<span style="color:#cccccc;">"A excelência não é um ato, mas um hábito."</span>** ✨
+**<span style="color:#cccccc;">“Se não deu erro, é porque ainda não rodei o programa.”</span>**
 
 </div>

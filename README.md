@@ -77,9 +77,6 @@ Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em ba
 ## 📫 Contato
 
 <div align="center">
-  <a href="https://linkedin.com/in/Vinicius de Figueiredo Anacleto" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="mailto:vinicius.f.anacleto@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white">
   </a>

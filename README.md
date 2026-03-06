@@ -82,6 +82,7 @@ public class ViniciusAnacleto extends Developer {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
 
@@ -137,7 +138,7 @@ public class ViniciusAnacleto extends Developer {
 
 <div align="center">
 
-### *`// Se não deu erro, é porque ainda não rodei o programa.`* 
+### 💬 *`// Se não deu erro, é porque ainda não rodei o programa.`* 😂
 
 <br>
 

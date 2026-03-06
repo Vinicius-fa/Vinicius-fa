@@ -1,94 +1,126 @@
-<!-- Banner animado -->
-<p align="center" style="background-color:#0d0d0d;">
+<div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMzMTU3MzhpdG00M28xZHJmNWQwZWljMGIyand0cXVsbnRtdHpsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%" alt="Banner animado">
-</p>
-
-<h1 align="center" style="color:#cccccc;">Vinicius Anacleto</h1>
-<h3 align="center" style="color:#cccccc;">🚀 Desenvolvedor Full Stack | Front-End & Back-End | WEG</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&pause=1000&color=cccccc&center=true&vCenter=true&width=650&lines=👨‍💻+Codando+soluções+do+zero;🔥+Apaixonado+por+tecnologia;💼+Trabalhando+na+WEG;🚀+Full+Stack+Developer" />
 </div>
 
-<br>
-
-## 🎯 Sobre Mim
-
-Desenvolvedor full stack, mais focado em Java, JS e crescente experiência em back e front-end. Atualmente trabalho na **WEG**, onde contribuo para projetos de inovação tecnológica criando soluções completas. Especializado em transformar designs em código limpo e desenvolver sistemas robustos que oferecem experiências excepcionais aos usuários.
-
-<br>
-
-## 🛠️ Tecnologias
-
 <div align="center">
-  <!-- ícones em fundo escuro, mantidos coloridos -->
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Eclipse" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-  <img align="center" alt="VS Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+
+```
+██╗   ██╗██╗███╗   ██╗██╗ ██████╗██╗██╗   ██╗███████╗
+██║   ██║██║████╗  ██║██║██╔════╝██║██║   ██║██╔════╝
+██║   ██║██║██╔██╗ ██║██║██║     ██║██║   ██║███████╗
+╚██╗ ██╔╝██║██║╚██╗██║██║██║     ██║██║   ██║╚════██║
+ ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║╚██████╔╝███████║
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝
+```
+
 </div>
 
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">  
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-fa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-fa&layout=compact&theme=dark"/>
-</div>
-
-<br>
-
-## 💼 Experiência
-
-**🏭 WEG** - *Desenvolvedor Full Stack*
-- Desenvolvimento de interfaces modernas e responsivas (Front-End)
-- Criação de APIs e sistemas back-end com Java e MySQL
-- Colaboração em projetos de inovação tecnológica
-- Implementação de soluções completas end-to-end
-
-<br>
-
-## 🎯 Especialidades
-
-- **Frontend Development** - HTML5, CSS3, JavaScript
-- **Backend Development** - Java, MySQL
-- **Responsive Design** - Mobile-first
-- **Database** - MySQL, Modelagem de Dados, Queries Otimizadas
-- **Tools & IDE** - Eclipse, VS Code, Git, GitHub
-- **UI/UX Design** - Figma, Prototipagem, Design Systems
-- **Performance** - Otimização Full Stack, Web Vitals
-
-<br>
-
-## 📈 Atividade no GitHub
-
-[![Vinicius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-fa&bg_color=0d0d0d&color=cccccc&line=cccccc&point=999999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
-## 📫 Contato
-
 <div align="center">
-  <a href="mailto:vinicius.f.anacleto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Vinicius-fa" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=C9D1D9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%40+WEG;Java+%2B+JavaScript+Enthusiast;Turning+coffee+into+code+since+day+1;%22Se+n%C3%A3o+deu+erro%2C+ainda+n%C3%A3o+rodei%22" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  
-**<span style="color:#cccccc;">“Se não deu erro, é porque ainda não rodei o programa.”</span>**
+  <img src="https://img.shields.io/badge/Status-Codando%20agora-brightgreen?style=flat-square&logo=statuspage&logoColor=white&labelColor=0d1117&color=238636" />
+  <img src="https://img.shields.io/badge/Empresa-WEG-blue?style=flat-square&labelColor=0d1117&color=1f6feb" />
+  <img src="https://img.shields.io/badge/Foco-Full%20Stack-orange?style=flat-square&labelColor=0d1117&color=d29922" />
+  <img src="https://komarev.com/ghpvc/?username=Vinicius-fa&style=flat-square&color=6e40c9&labelColor=0d1117&label=Visitas" />
+</div>
+
+---
+
+## ░▒▓ SOBRE MIM ▓▒░
+
+```java
+public class ViniciusAnacleto extends Developer {
+
+    private final String nome     = "Vinicius Anacleto";
+    private final String empresa  = "WEG";
+    private final String foco     = "Full Stack Development";
+    private final String[] stacks = {"Java", "JavaScript", "MySQL"};
+
+    @Override
+    public String toString() {
+        return "Desenvolvedor apaixonado por tecnologia, "
+             + "criando soluções completas do zero. "
+             + "De interfaces responsivas a APIs robustas, "
+             + "entrego experiências que fazem diferença.";
+    }
+}
+```
+
+---
+
+## ░▒▓ STACK ▓▒░
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma&theme=dark" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" />
+
+</div>
+
+---
+
+## ░▒▓ GITHUB STATS ▓▒░
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-fa&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=450" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-fa&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=300" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinicius-fa&theme=github-dark-blue&hide_border=true&date_format=d%2Fm%5BY%5D&card_width=750" height="170"/>
+</div>
+
+---
+
+## ░▒▓ ATIVIDADE ▓▒░
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-fa&bg_color=0d1117&color=8b949e&line=1f6feb&point=58a6ff&area=true&area_color=1f3358&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## ░▒▓ EXPERIÊNCIA ▓▒░
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  🏭  WEG  ·  Desenvolvedor Full Stack                    │
+├─────────────────────────────────────────────────────────┤
+│  ▸ Desenvolvimento de interfaces modernas e responsivas  │
+│  ▸ Criação de APIs e sistemas back-end (Java + MySQL)    │
+│  ▸ Projetos de inovação tecnológica                      │
+│  ▸ Soluções completas end-to-end                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ░▒▓ CONTATO ▓▒░
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-vinicius.f.anacleto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:vinicius.f.anacleto@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vinicius--fa-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Vinicius-fa)
+
+</div>
+
+---
+
+<div align="center">
+
+*`// Se não deu erro, é porque ainda não rodei o programa.`*
 
 </div>

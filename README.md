@@ -7,7 +7,7 @@
 <br/>
 
 ![Status](https://img.shields.io/badge/status-disponível_para_desafios-1D9E75?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍Jaraguá-do-Sul-SC,_Brasil-1572B6?style=flat-square&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍Jaraguá--do--Sul-SC,_Brasil-1572B6?style=flat-square&labelColor=0d1117)
 ![Coffee](https://img.shields.io/badge/café-sempre_ligado_☕-ED8B00?style=flat-square&labelColor=0d1117)
 
 </div>

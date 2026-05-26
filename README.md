@@ -2,7 +2,7 @@
 
 # Vinicius Anacleto
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%40+WEG;Java+%2B+JavaScript+%2B+MySQL;Apaixonado+por+tecnologia+☕" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=header&text=Full%20Stack%20Developer%20%40%20WEG&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -21,7 +21,7 @@ Desenvolvedor full stack com foco em criar soluções completas, do design de in
 | | |
 |---|---|
 | **Empresa** | WEG |
-| **Localização** | Jaraguá do Sul, SC · Brasil |
+| **Localização** | Nova Trento, SC · Brasil |
 | **Especialidade** | Java · JavaScript · MySQL |
 | **Disponibilidade** | Aberto a novos desafios |
 
@@ -67,7 +67,7 @@ Desenvolvedor full stack com foco em criar soluções completas, do design de in
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vinicius-fa&theme=tokyonight&hide_border=true&date_format=d%2Fm%5BY%5D" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Vinicius-fa&theme=tokyonight&hide_border=true&date_format=d%2Fm%5BY%5D" height="150"/>
 </div>
 
 ---
@@ -82,5 +82,7 @@ Desenvolvedor full stack com foco em criar soluções completas, do design de in
 <br/>
 
 ![Visitas](https://komarev.com/ghpvc/?username=Vinicius-fa&style=flat-square&color=1D9E75&label=visitas)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=60&section=footer" width="100%"/>
 
 </div>

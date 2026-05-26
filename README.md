@@ -21,7 +21,7 @@ Desenvolvedor full stack com foco em criar soluções completas, do design de in
 | | |
 |---|---|
 | **Empresa** | WEG |
-| **Localização** | Nova Trento, SC · Brasil |
+| **Localização** | Jaraguá do Sul, SC · Brasil |
 | **Especialidade** | Java · JavaScript · MySQL |
 | **Disponibilidade** | Aberto a novos desafios |
 

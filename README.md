@@ -31,6 +31,24 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Formação & Vivência</h3>
+      <ul>
+        <li>Formado no Ensino Médio pelo <b>SESI SENAI</b> (Jaraguá do Sul) no curso de <b>STEAM</b>.</li>
+        <li>Atuei por 1 ano e meio como Jovem Aprendiz na <b>Assistência Social</b> da Prefeitura de Jaraguá do Sul, o que me ajudou a desenvolver forte empatia e comunicação.</li>
+        <li><b>Inglês Avançado:</b> Tenho facilidade em me comunicar com pessoas de fora e debater sobre os mais diversos assuntos.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Além do Código</h3>
+      <ul>
+        <li>Sou movido a novidades e não gosto de "ficar parado". Sou apaixonado por tecnologia no geral, incluindo áreas como <b>Robótica</b>.</li>
+        <li>Nas horas vagas, sou um grande fã de jogos, principalmente nos gêneros de <b>FPS e Estratégia</b>.</li>
+        <li>Minha curiosidade também já me levou a explorar um pouco o mundo do <b>Game Dev</b>!</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
@@ -38,6 +56,7 @@
 ![Empresa](https://img.shields.io/badge/🏢_Empresa-WEG-C62828?style=flat-square&labelColor=0d1117)
 ![Local](https://img.shields.io/badge/📍_Local-Jaraguá_do_Sul,_SC-C62828?style=flat-square&labelColor=0d1117)
 ![Foco](https://img.shields.io/badge/💻_Core_Stack-Java_•_JS_•_SQL-C62828?style=flat-square&labelColor=0d1117)
+![Idioma](https://img.shields.io/badge/🗣️_Inglês-Avançado-C62828?style=flat-square&labelColor=0d1117)
 ![Momento](https://img.shields.io/badge/🎓_Status-Evolução_Contínua-C62828?style=flat-square&labelColor=0d1117)
 
 </div>

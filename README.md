@@ -6,9 +6,6 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/status-estudando-C62828?style=flat-square&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍Jaraguá%20do%20Sul-SC%2C%20Brasil-8E1616?style=flat-square&labelColor=0d1117)
-
 </div>
 
 ---

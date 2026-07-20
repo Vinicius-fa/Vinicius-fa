@@ -109,13 +109,9 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Vinicius-fa&theme=darkhub&no-frame=true&no-bg=true&column=4&title=Commits,PullRequest,Stars,Repositories&margin-w=8&margin-h=8"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=Vinicius-fa&theme=flat&no-frame=true&no-bg=true&column=4&title=Commits,PullRequest,Stars,Repositories&margin-w=8&margin-h=8"/>
-    <img src="https://github-trophies.vercel.app/?username=Vinicius-fa&theme=darkhub&no-frame=true&no-bg=true&column=4&title=Commits,PullRequest,Stars,Repositories&margin-w=8&margin-h=8" height="110"/>
-  </picture>
-</div>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Vinicius-fa&theme=darkhub&no-frame=true&no-bg=true&column=4&title=Commits,PullRequest,Stars,Repositories&margin-w=8&margin-h=8" height="110"/>
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-fa&theme=dracula&hide_border=true&date_format=d%2Fm%5BY%5D&ring=C62828&fire=C62828&currStreakLabel=C62828" height="150"/>
